@@ -1,1 +1,0 @@
-game:GetService("Workspace").Hammer.Handle.Handle.CFrame = game:GetService("Workspace").LolRudyFun.HumanoidRootPart.CFrame
